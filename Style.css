@@ -1,0 +1,33 @@
+img {
+    width: 175px;
+    height: 175px;
+    border-radius: 50%;
+}
+
+hr {
+    width: 200px;
+    border: 5px solid white;
+
+}
+
+div {
+    background-color: #4682B4;
+    text-align: center;
+}
+
+#historia {
+    background-color: white;
+}
+
+table {
+    width: 100%;
+}
+
+th{
+    font-weight: normal;
+}
+
+table, tr, th, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
